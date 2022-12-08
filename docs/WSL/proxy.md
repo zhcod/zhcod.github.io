@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 代理
+title: Proxy
 parent: WSL
 ---
 
