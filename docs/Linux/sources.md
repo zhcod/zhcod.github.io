@@ -1,6 +1,6 @@
 ---
 layout: default
-titile: 换哈工大源
+title: 换哈工大源
 parent: Linux
 ---
 ```bash
