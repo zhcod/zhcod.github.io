@@ -3,6 +3,10 @@ layout: default
 title: 换哈工大源
 parent: Linux
 ---
+
+注意这是Ubuntu22.04版：jammy  
+如果是Ubuntu20.04则把jammy替换成focal
+
 ```bash
 #!/bin/bash
 # 备份源
