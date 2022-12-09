@@ -7,3 +7,5 @@ permalink: WSL
 ---
 
 WSL docs
+
+    wsl --install
