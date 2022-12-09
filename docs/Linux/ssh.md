@@ -20,3 +20,7 @@ port是端口，默认值为22
 3. known_hosts
 
 存储了服务器的公钥
+
+4. authorized_keys
+
+生成的公钥放在服务器中的authorized_keys
