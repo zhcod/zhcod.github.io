@@ -10,7 +10,7 @@ nav_order: 7
 由于没有公网ip，所以要通过vpn连接到校内网，再连接办公室主机。
 
 ## 1. 远端linux主机
-~~~shell
+~~~
 # 先卸载原有的 ssh
 sudo apt remove openssh-server
 # 重新安装新的 ssh
