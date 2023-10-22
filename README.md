@@ -1,2 +1,1 @@
-# zhcod.github.io
-personal website
+你好啊各位！
