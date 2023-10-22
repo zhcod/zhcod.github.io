@@ -1,2 +1,4 @@
-theme: minima
+title: zhcod
+
+theme: jekyll-theme-dinky
 site_favicon: favicon.ico
