@@ -1,4 +1,4 @@
 title: zhcod
 
-theme: jekyll-theme-dinky
+remote_theme: sighingnow/jekyll-gitbook
 site_favicon: favicon.ico
