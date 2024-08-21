@@ -8,7 +8,7 @@ layout: page
 
 Here is **Zhenhua Liu**.
 
-I am a PhD candidate at Institute of Space Science and Applied Technology, Harbin Institute of Technology, Shenzhen. My main research interests are solar physics, coronal magnetic fields, and numerical simulation. 
+I am a PhD candidate at Harbin Institute of Technology, Shenzhen. My main research interests are solar physics, coronal magnetic fields, and numerical simulation. 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at lzh.liu@outlook.com
 
