@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="zhenhua.JPG" class="floatpic">
+<img src="zhenhua.JPG" >
 
 Here is **Zhenhua Liu**.
 
