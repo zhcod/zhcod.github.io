@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="tanglang.jpg" >
+<img src="" >
 
 Here is **Zhenhua Liu**.
 
